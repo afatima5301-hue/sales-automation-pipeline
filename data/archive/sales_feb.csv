@@ -1,0 +1,4 @@
+﻿order_id,order_date,region,product,quantity,unit_price
+2001,2024-02-01,North,Widget,3,10.00
+2002,2024-02-02,South,Gadget,2,20.00
+2003,2024-02-03,east,Doohickey,4,15.00

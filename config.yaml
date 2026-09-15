@@ -1,0 +1,20 @@
+﻿paths:
+  inbox: data/inbox
+  processed: data/processed
+  archive: data/archive
+  reports: data/reports
+  logs: logs
+
+schedule:
+  enabled: true
+  cron: "0 7 * * *"
+
+validation:
+  required_columns: [order_id, order_date, region, product, quantity, unit_price]
+  max_null_fraction: 0.2
+  min_quantity: 1
+  max_unit_price: 100000
+
+notification:
+  channel: console
+  file_path: data/reports/notifications.log

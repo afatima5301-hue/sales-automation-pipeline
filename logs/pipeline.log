@@ -1,0 +1,5 @@
+2026-09-15 00:16:04,013 | INFO | pipeline | Hello from logger test
+2026-09-15 01:15:25,046 | INFO | pipeline | Processed sales_2024_01.csv (3 rows)
+2026-09-15 01:15:25,049 | INFO | pipeline | Processed sales_feb.csv (3 rows)
+2026-09-15 01:15:25,577 | INFO | pipeline | Done in 0.536s. Report: data\reports\sales_report_20260915_011525.xlsx | Summary: data\reports\kpi_summary_20260915_011525.csv
+2026-09-15 01:32:27,394 | INFO | pipeline | No files found in inbox. Nothing to process.

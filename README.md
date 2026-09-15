@@ -76,9 +76,5 @@ reports (Excel + CSV), notifying stakeholders, and running on a schedule.
 
 \- `docs/REPORT.md` — design, challenges, results
 
-
-
-\## Author
-
 Aptura Tech Solutions Python Intern — Week 4 Final Task
 
